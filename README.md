@@ -7,7 +7,8 @@ Let's connect to explore how my expertise can help your ventures thrive.
 
 
 ## Git Overview
-<img align="center" src="https://github.com/Usama-u1?tab=overview&from=2024-11-01&to=2024-11-30" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Usama-u1&show_icons=true" alt="Usama-u1" />
+
 
 
 ## Get-in Touch
